@@ -8,6 +8,7 @@
 # If number of students = 13, edit the first group size arguement value, ie, 13 ||
 students = 'Mike Will Ryan Andrew Daniel Michael Tarun Hui Sanjita Dan Stephen Jack Nick'.split.shuffle
 
+
 # This is the menu user prompt
 puts "What is your group size?"
 group_size = gets.chomp.to_i
